@@ -7,3 +7,7 @@ A personal gym log for Training Programme 1, built to be added to a phone's Home
 - History → "Save a backup" exports the log; "Restore from a backup" brings it back.
 
 Files: `index.html` (the whole app), `sw.js` (offline support), `manifest.webmanifest` and icons (Home Screen app).
+
+## Kaden's Training (`/kaden`)
+
+Kaden's own log for his Training Programme 1, in the `kaden/` folder: **https://kadenholden.github.io/divine-training/kaden/**. It is a separate app with its own Home Screen icon and its own storage on the phone, so it never touches Divine's app or data.
